@@ -53,7 +53,7 @@ public class LibraryGUI{
 			e.printStackTrace();
 		}
         /**
-         * Create all the buttons for all the methods. 
+         * Create all the buttons for all the methods . 
          */
         JButton addBookToCatalog = new JButton("Add Book to our  Catalog");
         JButton displayCurrentUsers = new JButton("Display Users in system");
